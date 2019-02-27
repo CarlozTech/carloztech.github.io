@@ -11,3 +11,17 @@ Section: Addons
 Description: This is a beautiful Venezuela flag icon Pack for Zeppelin
 Author: CarlozTech <tutorialeselmago@gmail>
 Name: VenezuelaFlag
+
+Package: com.carloztech.belgiumflag
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: CarlozTech <tutorialeselmago@gmail.com>
+Filename: /BelgiumFlag.deb
+Size: 9324
+MD5sum: 3fb8f042c7983bc503d7403fecf40741
+SHA1: d918fbfb84eceb6c5c6775270aede02097447a27
+SHA256: 7d4e203c56ddcd8f46554def61f05c5b71e547ca67bf4ef2eb2138eb00d7a94e
+Section: Addons
+Description: This is a beautiful Belgium flag icon Pack for Zeppelin
+Author: CarlozTech <tutorialeselmago@gmail>
+Name: BelgiumFlag
