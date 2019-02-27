@@ -1,0 +1,19 @@
+<package>
+	<id>com.carloztech.mexicoflag</id>
+	<name>MexicoFlag</name>
+	<version>1.0.</version>
+	<compatibility>
+		<firmware>
+			<miniOS>4.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>This is a beautiful Mexico flag icon Pack for Zeppelin</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Lanzamiento Inicial</change>
+	</changelog>
+	<links></links>
+</package>

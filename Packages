@@ -1,27 +1,26 @@
 Package: com.carloztech.venezuelaflag
 Version: 1.0
-Architecture: iphoneos-arm
+Section: Addons
 Maintainer: CarlozTech <tutorialeselmago@gmail.com>
-Filename: /VenezuelaFlag.deb
+Architecture: iphoneos-arm
+Filename: ./deb/VenezuelaFlag.deb
 Size: 16316
 MD5sum: eb400f3ef39f6bbe1e843a1b2c3be724
-SHA1: f2e391b6a52fb44540308028d6284c67cbe0b22c
-SHA256: 953ec1e228f544a58d09cd9785957b9b1759724a9b9b90b565009be84a2d83d1
-Section: Addons
 Description: This is a beautiful Venezuela flag icon Pack for Zeppelin
-Author: CarlozTech <tutorialeselmago@gmail>
 Name: VenezuelaFlag
+Author: CarlozTech <tutorialeselmago@gmail>
+Depiction: https://carloztech.github.io/depictions/?p=VenezuelaFlag
 
-Package: com.carloztech.mexicoflag
+Package: com.supermamon.mexicoflag
 Version: 1.0
-Architecture: iphoneos-arm
+Section: Addons
 Maintainer: CarlozTech <tutorialeselmago@gmail.com>
-Filename: /MexicoFlag.deb
+Architecture: iphoneos-arm
+Filename: ./deb/MexicoFlag.deb
 Size: 12694
 MD5sum: e6336810c2fefdd117b3bc38f492dd92
-SHA1: 748b7a45ea6958e91a24e51cde834b473e66599d
-SHA256: e7898b6013da52b488b0e20759a23aa45c66b0f8f18e09dd807364b57373f828
-Section: Addons
 Description: This is a beautiful Mexico flag icon Pack for Zeppelin
-Author: CarlozTech <tutorialeselmago@gmail>
 Name: MexicoFlag
+Author: CarlozTech <tutorialeselmago@gmail>
+Depiction: https://carloztech.github.io/depictions/?p=MexicoFlag
+
