@@ -2,7 +2,7 @@ Package: com.carloztech.venezuelaflag
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: CarlozTech <tutorialeselmago@gmail.com>
-Filename: /deb/VenezuelaFlag.deb
+Filename: /VenezuelaFlag.deb
 Size: 16316
 MD5sum: eb400f3ef39f6bbe1e843a1b2c3be724
 SHA1: f2e391b6a52fb44540308028d6284c67cbe0b22c
