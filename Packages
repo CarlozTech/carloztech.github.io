@@ -179,3 +179,17 @@ Section: Addons
 Description: This is a beautiful USA flag icon Pack for Zeppelin
 Author: CarlozTech <tutorialeselmago@gmail>
 Name: UsaFlag
+
+Package: com.carloztech.mexicoflag
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: CarlozTech <tutorialeselmago@gmail.com>
+Filename: /MexicoFlag.deb
+Size: 12698
+MD5sum: 6fa02931ba8453f00a87f3eefb55907f
+SHA1: 4f3325a820cb0d94bab4ddc28af39f888a2513ea
+SHA256: 5b21fada53aedaf0544d7b6e5aecd6b60291a9e99ecb98c68e269c351b5e4977
+Section: Addons
+Description: This is a beautiful Mexico flag icon Pack for Zeppelin
+Author: CarlozTech <tutorialeselmago@gmail>
+Name: MexicoFlag
