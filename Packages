@@ -179,31 +179,3 @@ Section: Addons
 Description: This is a beautiful Ecuador flag icon Pack for Zeppelin
 Author: CarlozTech <tutorialeselmago@gmail>
 Name: EcuadorFlag
-
-Package: com.carloztech.nicaraguaflag
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: CarlozTech <tutorialeselmago@gmail.com>
-Filename: /NicaraguaFlag.deb
-Size: 12964
-MD5sum: 638907f78a43309cd981848a22ea79f2
-SHA1: 08cf3fe17275e710bf30c06743a42e573eb2541c
-SHA256: ff6821255c4072d6782c5e6c10f05f636f50cc8f704d6f1df64c5fac6c2cf076
-Section: Addons
-Description: This is a beautiful Nicaragua flag icon Pack for Zeppelin
-Author: CarlozTech <tutorialeselmago@gmail>
-Name: NicaraguaFlag
-
-Package: com.carloztech.dominicanflag
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: CarlozTech <tutorialeselmago@gmail.com>
-Filename: /DominicanFlag.deb
-Size: 10940
-MD5sum: 27bf443967da66105a464fba100c1178
-SHA1: 1051ed5b2151945a9f90bac744c0b88ab7e19f59
-SHA256: 7378b561cc06d36f12fbaaa430c72cbd943bb2ea5f2ccb04938cc09f8d5ae34f
-Section: Addons
-Description: This is a beautiful Dominican flag icon Pack for Zeppelin
-Author: CarlozTech <tutorialeselmago@gmail>
-Name: DominicanFlag
