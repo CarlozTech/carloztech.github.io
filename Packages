@@ -9,7 +9,7 @@ SHA1: 5a94c7fc3510c18d30b33a3bf97cefc20dec84b0
 SHA256: b48e6c0b66cd01184d29e957fabb7328b761b0a9d6418199b73382548b200240
 Section: Addons
 Description: This is a beautiful Venezuela flag icon Pack for Zeppelin
-Author: CarlozTech <tutorialeselmago@gmail>
+Author: CarlozTech <tutorialeselmago@gmail.com>
 Name: VenezuelaFlag
 
 Package: com.carloztech.belgiumflag
@@ -23,7 +23,7 @@ SHA1: dce0d31f9152ad0a9d55474d00c891946ba30999
 SHA256: af33f301de1e8b8cd6ac5e9e228958d0ce6b2e7ae1e36a24d843140018e227de
 Section: Addons
 Description: This is a beautiful Belgium flag icon Pack for Zeppelin
-Author: CarlozTech <tutorialeselmago@gmail>
+Author: CarlozTech <tutorialeselmago@gmail.com>
 Name: BelgiumFlag
 
 Package: com.carloztech.chileflag
@@ -37,7 +37,7 @@ SHA1: d253ed478339be3f6aebd66caaa8a7b602f3f79d
 SHA256: d5eb867891616ef6a6c9b855929650175c7e3a307c201b921aaccdc1d22fafb9
 Section: Addons
 Description: This is a beautiful Chile flag icon Pack for Zeppelin
-Author: CarlozTech <tutorialeselmago@gmail>
+Author: CarlozTech <tutorialeselmago@gmail.com>
 Name: ChileFlag
 
 Package: com.carloztech.colombiaflag
@@ -51,7 +51,7 @@ SHA1: 3c715639f301a37c94a329688ce1ac116268342e
 SHA256: a389db2da82a6d2d0fb13f410ce14a44378f4cc3a2fb02a0a49843116419a57f
 Section: Addons
 Description: This is a beautiful Colombia flag icon Pack for Zeppelin
-Author: CarlozTech <tutorialeselmago@gmail>
+Author: CarlozTech <tutorialeselmago@gmail.com>
 Name: ColombiaFlag
 
 Package: com.carloztech.costaricaflag
@@ -65,7 +65,7 @@ SHA1: c6a75e1c38f2f0d53fbdd1dbf4757729dfd826d6
 SHA256: 6828e65eedfc12b5dd7eb86bab8189f45a01e7b309a9f9c9a1841575f6f9c821
 Section: Addons
 Description: This is a beautiful Costa Rica flag icon Pack for Zeppelin
-Author: CarlozTech <tutorialeselmago@gmail>
+Author: CarlozTech <tutorialeselmago@gmail.com>
 Name: CostaRicaFlag
 
 Package: com.carloztech.elsalvadorflag
@@ -79,7 +79,7 @@ SHA1: 3e34ecfc590d072bf1350c754a9d2d14c3791fea
 SHA256: 24278e846f7d6f750894ba48fdd4ee896e58882d5f6fc393fbccade778e539cc
 Section: Addons
 Description: This is a beautiful El Salvador flag icon Pack for Zeppelin
-Author: CarlozTech <tutorialeselmago@gmail>
+Author: CarlozTech <tutorialeselmago@gmail.com>
 Name: ElSalvadorFlag
 
 Package: com.carloztech.guatemalaflag
@@ -93,7 +93,7 @@ SHA1: 7d06445062f4352a7164751abd14fc034f53a55c
 SHA256: dfbfa8d81018f897dd87f5ebb3bad352d5ebee6a73be9b31003952f1998e9dad
 Section: Addons
 Description: This is a beautiful Guatemala flag icon Pack for Zeppelin
-Author: CarlozTech <tutorialeselmago@gmail>
+Author: CarlozTech <tutorialeselmago@gmail.com>
 Name: GuatemalaFlag
 
 Package: com.carloztech.hondurasflag
@@ -107,7 +107,7 @@ SHA1: 9034aa3f2da86b3ef7576058a07b96ecb3f703dc
 SHA256: 7fe88fbbbb51a55c423b4df0403792d3caf3e9310f1b4f1f8930028541a1a6ef
 Section: Addons
 Description: This is a beautiful Honduras flag icon Pack for Zeppelin
-Author: CarlozTech <tutorialeselmago@gmail>
+Author: CarlozTech <tutorialeselmago@gmail.com>
 Name: HondurasFlag
 
 Package: com.carloztech.northkoreaflag
@@ -121,7 +121,7 @@ SHA1: e62002c611f33b6d96d64aee39f272bb1106ff95
 SHA256: 2e2e9a003717ecb38200d52a5aebc3c1f9ecd85382111e8b8df817f5f67d0fb6
 Section: Addons
 Description: This is a beautiful North Korea flag icon Pack for Zeppelin
-Author: CarlozTech <tutorialeselmago@gmail>
+Author: CarlozTech <tutorialeselmago@gmail.com>
 Name: NorthKoreaFlag
 
 Package: com.carloztech.spainflag
@@ -135,7 +135,7 @@ SHA1: e7e4d5ace83e4329a8429f7c53ee5af4221fc5f9
 SHA256: 0404388bd46dc25d8ef054728f77ddb5af390d86a7671dfc165e9b7fe05bda6c
 Section: Addons
 Description: This is a beautiful Spain flag icon Pack for Zeppelin
-Author: CarlozTech <tutorialeselmago@gmail>
+Author: CarlozTech <tutorialeselmago@gmail.com>
 Name: SpainFlag
 
 Package: com.carloztech.usaflag
@@ -149,7 +149,7 @@ SHA1: 1a7813db13aef966e01ddf95166b15f54ff12ead
 SHA256: fb220d21924b147b3c1849ee7bc2cc2d53186012becc0609307d577727405aeb
 Section: Addons
 Description: This is a beautiful USA flag icon Pack for Zeppelin
-Author: CarlozTech <tutorialeselmago@gmail>
+Author: CarlozTech <tutorialeselmago@gmail.com>
 Name: UsaFlag
 
 Package: com.carloztech.mexicoflag
@@ -163,7 +163,7 @@ SHA1: 4f3325a820cb0d94bab4ddc28af39f888a2513ea
 SHA256: 5b21fada53aedaf0544d7b6e5aecd6b60291a9e99ecb98c68e269c351b5e4977
 Section: Addons
 Description: This is a beautiful Mexico flag icon Pack for Zeppelin
-Author: CarlozTech <tutorialeselmago@gmail>
+Author: CarlozTech <tutorialeselmago@gmail.com>
 Name: MexicoFlag
 
 Package: com.carloztech.ecuadorflag
@@ -177,7 +177,7 @@ SHA1: d5467981dbedfd7c107046ffbe3226f0fa33ce87
 SHA256: 3161c46f827721e33d849e8c68885e196126838cb3afd8ba49243f7658d0de5e
 Section: Addons
 Description: This is a beautiful Ecuador flag icon Pack for Zeppelin
-Author: CarlozTech <tutorialeselmago@gmail>
+Author: CarlozTech <tutorialeselmago@gmail.com>
 Name: EcuadorFlag
 
 Package: com.carloztech.nicaraguaflag
@@ -191,5 +191,5 @@ SHA1: 929dc221f4014a2f78c84e1a67c01d3ed78a4d35
 SHA256: 0f93375fd601d609d6df2f03d5967287d8283f4d15699fd46224fa46e779deb1
 Section: Addons
 Description: This is a beautiful Nicaragua flag icon Pack for Zeppelin
-Author: CarlozTech <tutorialeselmago@gmail>
+Author: CarlozTech <tutorialeselmago@gmail.com>
 Name: NicaraguaFlag
