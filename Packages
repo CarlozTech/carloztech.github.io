@@ -193,3 +193,17 @@ Section: Addons
 Description: This is a beautiful Nicaragua flag icon Pack for Zeppelin
 Author: CarlozTech <tutorialeselmago@gmail.com>
 Name: NicaraguaFlag
+
+Package: com.carloztech.CRforopennotifier
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: CarlozTech <tutorialeselmago@gmail.com>
+Filename: /CRforopennotifier.deb
+Size: 16988
+MD5sum: 6c85a2cc2847d2ddcb839764f91e7d94
+SHA1: c2720c1204717da696988c09de8841fd50055b55
+SHA256: 939f86761918b919a006f3a94371be5353454a10ce0997cbbeb62b5e08a0e442
+Section: System
+Description: This is a beatiful Clash Royale icon Pack for OpenNotifier
+Author: CarlozTech <tutorialeselmago@gmail.com>
+Name: CR For OpenNotifier
