@@ -199,10 +199,10 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: CarlozTech <tutorialeselmago@gmail.com>
 Filename: /CRforopennotifier.deb
-Size: 16966
-MD5sum: d8fc1053f5dcee2e0abe64e031d9a315
-SHA1: c3171d4190dfaeebb4e25c7d67912b280a5e5988
-SHA256: ab1373ed30b0660a68f5872c0aaa0cd8addc9c84a2af114432c8201e1404f3c8
+Size: 16986
+MD5sum: 45b585c1fcd5521ac154b3fd36a48db2
+SHA1: d5e3c8217823cee581fd1ab013bda20e26d00168
+SHA256: 3874d17d6005bf396b887299e41aa94d4cbd5f432f60189b8876c9f7413261b0
 Section: System
 Description: This is a beatiful Clash Royale icon Pack for OpenNotifier
 Author: CarlozTech <tutorialeselmago@gmail.com>
