@@ -221,3 +221,115 @@ Section: System
 Description: This is the newest instagram icon for OpenNotifier
 Author: CarlozTech <tutorialeselmago@gmail.com>
 Name: IG For OpenNotifier
+
+Package: com.carloztech.appstoreforopennotifier
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: CarlozTech <tutorialeselmago@gmail.com>
+Filename: /AppStoreforopennotifier.deb
+Size: 2622 
+MD5sum: e40f630137d8a7a7fb27078033b3ad3e
+SHA1: b0c3b4e6f38c5032ca2790d6a2305b58a716239a
+SHA256: 49e4e48fb57dd76262fbd0bee788e5dfb22fe4a2a34683b77f07f23d757a7bb8
+Section: System
+Description: This is the newest App Store icon for OpenNotifier
+Author: CarlozTech <tutorialeselmago@gmail.com>
+Name: App Store For OpenNotifier
+
+Package: com.carloztech.cydiaforopennotifier
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: CarlozTech <tutorialeselmago@gmail.com>
+Filename: /Cydiaforopennotifier.deb
+Size: 3350 
+MD5sum: 70fd8cd91eca9370b34c5b4e8b957514
+SHA1: 0174a2316298e24c4520f5e8a99775ab7555d271
+SHA256: 3062d01b82f11fd51701fda15be1c1356424c950a6ae75beb682e17abc3852d1
+Section: System
+Description: This is the newest Cydia icon for OpenNotifier
+Author: CarlozTech <tutorialeselmago@gmail.com>
+Name: Cydia For OpenNotifier
+
+Package: com.carloztech.duolingoforopennotifier
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: CarlozTech <tutorialeselmago@gmail.com>
+Filename: /Duolingoforopennotifier.deb
+Size: 2748 
+MD5sum: 969de28b1c51651b2949a0ef71b8b798
+SHA1: 40eeb0248ef6e74b3117588791b7fa8ef9a31c18
+SHA256: f643fab5d6e8838abedc76916ca300a1b159235d750ad1df5572117a0b82fc06
+Section: System
+Description: This is the newest Duolingo icon for OpenNotifier
+Author: CarlozTech <tutorialeselmago@gmail.com>
+Name: Duolingo For OpenNotifier
+
+Package: com.carloztech.fbforopennotifier
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: CarlozTech <tutorialeselmago@gmail.com>
+Filename: /Facebookforopennotifier.deb
+Size: 2360 
+MD5sum: e73f4a5dab5942ff7113f5475df4ef0d
+SHA1: 2d4d1f4f1ce8f20ee5cf2adce929dc74d41829a6
+SHA256: 4247100bd46274584c13d95a704f3a69036865987d95238ba237058c7ef52c2e
+Section: System
+Description: This is the newest Facebook icon for OpenNotifier
+Author: CarlozTech <tutorialeselmago@gmail.com>
+Name: Facebook For OpenNotifier
+
+Package: com.carloztech.paypalforopennotifier
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: CarlozTech <tutorialeselmago@gmail.com>
+Filename: /Paypalforopennotifier.deb
+Size: 2536 
+MD5sum: 204e604abb6503fb1b54ea63250e2b3a
+SHA1: 718a9bf9c6baccba233386577b13b85520c5f5bf 
+SHA256: 8c0e605f9e073813511d77940acad8c07271dfa00b350a594be919ffa8093a87
+Section: System
+Description: This is the newest Paypal icon for OpenNotifier
+Author: CarlozTech <tutorialeselmago@gmail.com>
+Name: Paypal For OpenNotifier
+
+Package: com.carloztech.skypeforopennotifier
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: CarlozTech <tutorialeselmago@gmail.com>
+Filename: /Skypeforopennotifier.deb
+Size: 2682 
+MD5sum: 8a7676a7b274a492ea64db5fa0e5f0d6
+SHA1: 1f498d558f89920daf075620b8b3fb2ebc3abfc5 
+SHA256: d709b8c8c5f7c20e9193e824aa87c133e8187c659dfe62a71c0617e81281e78c
+Section: System
+Description: This is the newest Skype icon for OpenNotifier
+Author: CarlozTech <tutorialeselmago@gmail.com>
+Name: Skype For OpenNotifier
+
+Package: com.carloztech.tweetbotforopennotifier
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: CarlozTech <tutorialeselmago@gmail.com>
+Filename: /Tweetbotforopennotifier.deb
+Size: 2806 
+MD5sum: 717420e70377d4d655f2d41510375b2f
+SHA1: 3a7b6b9f57b0675bbd2c4cc7cba42b11545c0acd 
+SHA256: d6161d64d213282667eebc73995b1a46ae350811c7d7cd931c5a762d1341ebb1
+Section: System
+Description: This is the newest Tweetbot icon for OpenNotifier
+Author: CarlozTech <tutorialeselmago@gmail.com>
+Name: Tweetbot For OpenNotifier
+
+Package: com.carloztech.whatsappforopennotifier
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: CarlozTech <tutorialeselmago@gmail.com>
+Filename: /Whatsappforopennotifier.deb
+Size: 2940 
+MD5sum: 07cc3c58017f127d821c716d0dfa6493
+SHA1: cde635fc26e87f34dd2b706f654a0cb227c25ef3 
+SHA256: 7483f681f26e845089dbc8e4e2cd25177f0c1d838f0bbfcc03fb265a62cef076
+Section: System
+Description: This is the newest Whatsapp icon for OpenNotifier
+Author: CarlozTech <tutorialeselmago@gmail.com>
+Name: Whatsapp For OpenNotifier
