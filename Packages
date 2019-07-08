@@ -207,3 +207,17 @@ Section: System
 Description: This is an awesone Clash Royale icon Pack for OpenNotifier
 Author: CarlozTech <tutorialeselmago@gmail.com>
 Name: CR For OpenNotifier
+
+Package: com.carloztech.igforopennotifier
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: CarlozTech <tutorialeselmago@gmail.com>
+Filename: /IGforopennotifier.deb
+Size: 3300 
+MD5sum: 6b54cd83989cb9a9c67eb4894108a757
+SHA1: 88bb95e3bd1c34866976df2b8b79f2fead3f8875
+SHA256: d25b1c83e5eeeced15da49f981639b7861ebca2c7aabf2123f301606314de49f
+Section: System
+Description: This is the newest instagram icon for OpenNotifier
+Author: CarlozTech <tutorialeselmago@gmail.com>
+Name: IG For OpenNotifier
