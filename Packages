@@ -347,3 +347,31 @@ Section: Addons
 Description: This is a beautiful Dominican flag icon Pack for Zeppelin
 Author: CarlozTech <tutorialeselmago@gmail.com>
 Name: DominicanFlag
+
+Package: com.carloztech.chileflag
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: CarlozTech <tutorialeselmago@gmail.com>
+Filename: /ChileFlag.deb
+Size: 7356
+MD5sum: 25fe7c10f0229864456a04738a69cfac
+SHA1: 4b8af1a343593e6c217c0c3fcdb616708e96e48f
+SHA256: 30bc29921e647fa2e111b9d64f1b6ed83339f3b367aaba5c8bccd6e55d24082d
+Section: Addons
+Description: This is a beautiful Chile icon Pack for Zeppelin
+Author: CarlozTech <tutorialeselmago@gmail.com>
+Name: ChileFlag
+
+Package: com.carloztech.lavinotintoflag
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: CarlozTech <tutorialeselmago@gmail.com>
+Filename: /LaVinotinto.deb
+Size: 5970
+MD5sum: ee088deab0010eb5b7933ef1591e6e97
+SHA1: b06e53702a2d6fd51f0b3f1e9dded9439d717daa
+SHA256: 295a390e5b2b7d0ef00b0fe8d7f976f4bf63aefe55253026ea5b51a00071f1ce
+Section: Addons
+Description: This is a beautiful La Vinotinto icon Pack for Zeppelin
+Author: CarlozTech <tutorialeselmago@gmail.com>
+Name: LaVinotinto
