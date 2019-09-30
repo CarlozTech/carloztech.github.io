@@ -375,3 +375,17 @@ Section: Addons
 Description: This is a beautiful La Vinotinto icon Pack for Zeppelin
 Author: CarlozTech <tutorialeselmago@gmail.com>
 Name: LaVinotinto
+
+Package: com.carloztech.mariokartourbypass
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: CarlozTech <tutorialeselmago@gmail.com>
+Filename: /MarioKarTourBypass.deb
+Size: 1037154
+MD5sum: 
+SHA1: 
+SHA256: 
+Section: Tweaks
+Description: Mario Kart Tour Bypass by 0xsubz3r0 for Jailbroken devices
+Author: 0xsubz3r0 <repo@carloztech.io>
+Name: MarioKarTourBypass
