@@ -389,3 +389,17 @@ Section: Tweaks
 Description: Mario Kart Tour Bypass by 0xsubz3r0 for Jailbroken devices
 Author: 0xsubz3r0 <repo@carloztech.io>
 Name: MarioKarTourBypass
+
+Package: com.carloztech.tsssaver2
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: CarlozTech <tutorialeselmago@gmail.com>
+Filename: /TSSSaver2.deb
+Size: 423374
+MD5sum: c9c0312e74d38b5f1c343a08e7b4ce26
+SHA1: d6f72a52b4d1ded96ce011393e53c23dbb9029e5
+SHA256: 2af3994d2416dab8e45528833ee935972c7acf88d5fe30f40abc49aaee46b490
+Section: Utilities
+Description: This is an application for save SHSH blobs
+Author: IArrays <repo@carloztech.io>
+Name: TSSSaver2
