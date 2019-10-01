@@ -382,9 +382,9 @@ Architecture: iphoneos-arm
 Maintainer: CarlozTech <tutorialeselmago@gmail.com>
 Filename: /MarioKarTourBypass.deb
 Size: 1037154
-MD5sum: 
-SHA1: 
-SHA256: 
+MD5sum: 8f269b6d0f4b8632d8b820d85c0162ab
+SHA1: e6759b82cf0d90292b54c360e464efb45c49589f
+SHA256: 50fefd50019b6eb690b54a62b767f1cbd74ecbe962650768883424f865a077c2
 Section: Tweaks
 Description: Mario Kart Tour Bypass by 0xsubz3r0 for Jailbroken devices
 Author: 0xsubz3r0 <repo@carloztech.io>
