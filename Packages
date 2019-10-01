@@ -390,16 +390,16 @@ Description: Mario Kart Tour Bypass by 0xsubz3r0 for Jailbroken devices
 Author: 0xsubz3r0 <repo@carloztech.io>
 Name: MarioKarTourBypass
 
-Package: com.carloztech.tsssaver2
-Version: 2.0
+Package: com.carloztech.tsssaver
+Version: 1.0-beta-4
 Architecture: iphoneos-arm
-Maintainer: CarlozTech <tutorialeselmago@gmail.com>
-Filename: /TSSSaver2.deb
-Size: 423374
-MD5sum: c9c0312e74d38b5f1c343a08e7b4ce26
-SHA1: d6f72a52b4d1ded96ce011393e53c23dbb9029e5
-SHA256: 2af3994d2416dab8e45528833ee935972c7acf88d5fe30f40abc49aaee46b490
+Maintainer: IArrays <support@iarrays.com>
+Filename: /TSSaver2.deb
+Size: 423602
+MD5sum: d1d0d1059653859f624a36816d83f825
+SHA1: df07aba6f6653981da0be88d7abd7a8e54a80a7e
+SHA256: 0a6ea607062ead86241eb51a4d86e6c67075df353631815914ea04195bb27c8e
 Section: Utilities
-Description: This is an application for save SHSH blobs
-Author: IArrays <repo@carloztech.io>
-Name: TSSSaver2
+Description: A one-click tool to save blobs using TSSSaver.1conan.com, idea from @nullpixel´s TSS Saver but entirely rewritten in Objetive-C to support more features. Just install and leave the rest, this tool automatically saves SHSH blobs to TSSsaver.1conan.com.
+Author: IArrays <support@iarrays.com>
+Name: TSSSaver 2
