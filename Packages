@@ -390,16 +390,16 @@ Description: Mario Kart Tour Bypass by 0xsubz3r0 for Jailbroken devices
 Author: 0xsubz3r0 <repo@carloztech.io>
 Name: MarioKarTourBypass
 
-Package: com.carloztech.tsssaver
-Version: 1.0-beta-4
+Package: com.carloztech.NLM
+Version: 1.1b
 Architecture: iphoneos-arm
-Maintainer: IArrays <support@iarrays.com>
-Filename: /TSSaver2.deb
-Size: 423602
-MD5sum: d1d0d1059653859f624a36816d83f825
-SHA1: df07aba6f6653981da0be88d7abd7a8e54a80a7e
-SHA256: 0a6ea607062ead86241eb51a4d86e6c67075df353631815914ea04195bb27c8e
-Section: Utilities
-Description: A one-click tool to save blobs using TSSSaver.1conan.com, idea from @nullpixel´s TSS Saver but entirely rewritten in Objetive-C to support more features. Just install and leave the rest, this tool automatically saves SHSH blobs to TSSsaver.1conan.com.
-Author: IArrays <support@iarrays.com>
-Name: TSSSaver 2
+Maintainer: CarlozTech <tutorialeselmago@gmail.com>
+Filename: /NeverLowerMus1c.deb
+Size: 1942
+MD5sum: ab716835fdbd7f9357de01ae47b9005d
+SHA1: 4b83dabb333e074ce95b110adb40543e838e3adf
+SHA256: 516ccb6ba9e179777f1f58469ae409a6578a57725cecf3d5fa8cd91ff7b726f6
+Section: Tweaks
+Description: Do not let any incoming notification interrupt/lower your music. Buy me a beer, PayPal:tutorialeselmago@gmail.com
+Author: Rishanan <repo@carloztech.io>
+Name: NeverLowerMus1c
