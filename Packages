@@ -403,3 +403,17 @@ Section: Tweaks
 Description: Do not let any incoming notification interrupt/lower your music. Buy me a beer, PayPal:tutorialeselmago@gmail.com
 Author: Rishanan <repo@carloztech.io>
 Name: NeverLowerMus1c
+
+Package: com.carloztech.cylinder
+Version: 1.0.7b2
+Architecture: iphoneos-arm
+Maintainer: CarlozTech <tutorialeselmago@gmail.com>
+Filename: /CylinderA12.deb
+Size: 503390
+MD5sum: 2230be634c6d5be9c690a358114f07c4
+SHA1: 2fa0f4ed984c0b557e2671c14d75bde39af00cee
+SHA256: ddb44f919fcf551b1c597ca6de03ab3de2fb72c902e0a0b49b80b1644203a2e8
+Section: Tweaks
+Description: Make your icons dance
+Author: Reed Weichler <rweichler@gmail.com>
+Name: Cylinder
