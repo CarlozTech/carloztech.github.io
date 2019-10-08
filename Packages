@@ -417,3 +417,17 @@ Section: Tweaks
 Description: Make your icons dance
 Author: Reed Weichler <rweichler@gmail.com>
 Name: Cylinder
+
+Package: com.carloztech.cask
+Version: 0.2
+Architecture: iphoneos-arm
+Maintainer: CarlozTech <tutorialeselmago@gmail.com>
+Filename: /Cask.deb
+Size: 10942
+MD5sum: 51f16c43f0c7b0d21504dd670d1828c9
+SHA1: 384a694efe013dc3bb3815da1a7b308e7c4c275b
+SHA256: e94077e75059d1d477a933ca05bd3d4e4a915ec546e24e661f5338e0208e5590
+Section: Tweaks
+Description: Animated table scrolling inspired by Google Plus
+Author: Ryan Petrich <rpetrich@gmail.com>
+Name: Cask
