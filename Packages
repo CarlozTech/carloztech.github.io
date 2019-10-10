@@ -445,3 +445,31 @@ Section: Tweaks
 Description: AppStore XI was created to make the downgrades and upgrades of the applications they want. When you are in the AppStore on the application page you want to downgrade / upgrade simply press the (Get) button fo 3 seconds.
 Author: AppWeleux Team <appweuleux@gmail.com>
 Name: AppStoreXI
+
+Package: com.carloztech.appstoreplusplus
+Version: 0.9.5
+Architecture: iphoneos-arm
+Maintainer: CarlozTech <tutorialeselmago@gmail.com>
+Filename: /AppStore++.deb
+Size: 1638498
+MD5sum: 69cc0e7ec58653923dc770689d3bc0a9
+SHA1: 14c99b27e8f0f394e82710c399bb3cba57c4a42a
+SHA256: 67754f54fe92a46d5a592c0468292330317e74274fe0f4547d2f967c1f53c349
+Section: Tweaks
+Description: Allows you to downgrade/upgrade apps in the AppStore
+Author: CokePokes <tutorialeselmago@gmail.com>
+Name: AppStore++
+
+Package: com.carloztech.pikabulite
+Version: 1.1.0
+Architecture: iphoneos-arm
+Maintainer: CarlozTech <tutorialeselmago@gmail.com>
+Filename: /PikabuLite.deb
+Size: 230960
+MD5sum: 5517641c33a21c9d84a6d6f0b1b83c1e
+SHA1: bbff925dd70fd53def9316e39e66083b8dbb220c
+SHA256: ac7be3444997f784fe554bcbfe105b23fee9b8723d607d4770850c15f12f7ea8
+Section: Tweaks
+Description: Minimalistic volume hud on the notch.
+Author: Jeffrey Chan <tutorialeselmago@gmail.com>
+Name: Pikabu Lite

@@ -1,0 +1,11 @@
+Package: com.hackyouriphone.pikabulite
+Name: Pikabu Lite
+Version: 1.1.0
+Depends: mobilesubstrate, firmware (>= 10.0), preferenceloader
+Architecture: iphoneos-arm
+Author: Jeffrey Chan <repo@hackyouriphone.org>
+Depiction: http://repo.hackyouriphone.org/depiction/depiction.php?filename=pikabulite
+Section: HYI - Tweaks
+Description: Minimalistic volume hud on the notch.
+Homepage: http://repo.hackyouriphone.org/depiction/depiction.php?filename=pikabulite
+Maintainer: HackYouriPhone <repo@hackyouriphone.org>
