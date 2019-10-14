@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>APPEARANCE_TITLE</key>
+	<string>Appearance</string>
+	<key>DYNAMIC_COLORS_LABEL</key>
+	<string>Dynamic color</string>
+	<key>MAX_COLOR_LABEL</key>
+	<string>Maximum color</string>
+	<key>MAX_COLOR_TITLE</key>
+	<string>Maximum color</string>
+	<key>MIN_COLOR_LABEL</key>
+	<string>Minimum color</string>
+	<key>MIN_COLOR_TITLE</key>
+	<string>Minimum color</string>
+  <key>ROUNDED_LABEL</key>
+	<string>Rounded corners</string>
+	<key>OVERLAY_COLOR_LABEL</key>
+	<string>Color</string>
+	<key>OVERLAY_COLOR_TITLE</key>
+	<string>Overlay color</string>
+	<key>OVERLAY_FOOTER</key>
+	<string>Any option (blur or shadow) requires the overlay to be enabled, but the overlay color can be transparent.</string>
+	<key>OVERLAY_CORNER_RADIUS_LABEL</key>
+	<string>Corner radius</string>
+	<key>OVERLAY_ENABLE_LABEL</key>
+	<string>Enable</string>
+	<key>OVERLAY_ENABLE_LABEL</key>
+	<string>Enable</string>
+	<key>OVERLAY_LABEL</key>
+	<string>Overlay</string>
+	<key>OVERLAY_SHADOW_LABEL</key>
+	<string>Shadow</string>
+	<key>OVERLAY_BLUR_LABEL</key>
+	<string>Blur</string>
+	<key>SLIDER_LABEL</key>
+	<string>Slider</string>
+	<key>SLIDER_FOOTER</key>
+	<string>Dynamic will use the current status bar foreground color.</string>
+	<key>ADDITIONAL_OPTIONS_LABEL</key>
+	<string>Additional Options</string>
+	<key>INDICATOR_COLOR_LABEL</key>
+	<string>Indicator and percentage color</string>
+	<key>INDICATOR_MEDIA_LABEL</key>
+	<string>Media indicator</string>
+	<key>INDICATOR_RINGER_LABEL</key>
+	<string>Ringer indicator</string>
+	<key>INDICATOR_SINGLE_LABEL</key>
+	<string>Show only one indicator</string>
+	<key>INDICATORS_LABEL</key>
+	<string>Indicators</string>
+	<key>VOLUMEPERCENTAGE_LABEL</key>
+	<string>Show volume percentage</string>
+	<key>STATUSBAR_LABEL</key>
+	<string>Status bar</string>
+	<key>STATUSBAR_FOOTER</key>
+	<string>Modern status bars such as iPhone X/XR/XS or iPad only support hiding the time or the status bar completely.</string>
+	<key>HIDE_TIME_LABEL</key>
+	<string>Hide time</string>
+	<key>HIDE_LEFT_LABEL</key>
+	<string>Hide carrier etc.</string>
+	<key>HIDE_RIGHT_LABEL</key>
+	<string>Hide battery etc.</string>
+	<key>HIDE_ALL_LABEL</key>
+	<string>Hide completely</string>
+</dict>
+</plist>

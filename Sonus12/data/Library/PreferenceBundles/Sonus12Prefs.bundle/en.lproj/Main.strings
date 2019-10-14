@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ANIMATION_LABEL</key>
+	<string>Animation and haptics</string>
+	<key>APPEARANCE_LABEL</key>
+	<string>Appearance</string>
+	<key>BUY_A_COFFEE_LABEL</key>
+	<string>Buy me a coffee</string>
+	<key>ENABLED_LABEL</key>
+	<string>Enabled</string>
+	<key>SIZE_AND_POSITION_LABEL</key>
+	<string>Size and position</string>
+	<key>OPTIONS_LABEL</key>
+	<string>Options</string>
+	<key>DEVELOPER_LABEL</key>
+	<string>Developer</string>
+</dict>
+</plist>

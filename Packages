@@ -501,3 +501,31 @@ Section: Development
 Description: Swift runtime for iOS
 Author: Kabir Oberai <tutorialeselmago@gmail.com>
 Name: libswift
+
+Package: es.carloztech.sonus12
+Version: 1.1.1-1
+Architecture: iphoneos-arm
+Maintainer: CarlozTech <tutorialeselmago@gmail.com>
+Filename: /Sonus12.deb
+Size: 122254
+MD5sum: aa5c42058d8ed7ec29f06b60deae7897 
+SHA1: 6aa1e0c6e0169e52cb011c0e4ad4ee3505a2ca7a
+SHA256: 5aba8da843101e5bf5f6d099df7ff1e42bcff487d1db636609e183c9b24fcabc
+Section: Tweaks
+Description: The highly customizable volume hud. For iOS 12.
+Author: Ubik <tutorialeselmago@gmail.com>
+Name: Sonus12
+
+Package: me.carloztech.libcolorpicker
+Version: 1.6.2-2
+Architecture: iphoneos-arm
+Maintainer: CarlozTech <tutorialeselmago@gmail.com>
+Filename: /Libcolorpicker.deb
+Size: 185510
+MD5sum: 6574f45282daf97acca0bdd29b872445
+SHA1: 7ba6428ada07287f0fae3e6359057af5ece616fd 
+SHA256: d9de83caf5f947c3dac23ccbece31be124330ac67210c16f3abcd25cbdda25ab
+Section: Development
+Description: libcolorpicker with arm64e (A12) support (If you can't see the depiction, please use Cydia or Zebra).
+Author: Bailey Seymour <tutorialeselmago@gmail.com>
+Name: libcolorpicker
