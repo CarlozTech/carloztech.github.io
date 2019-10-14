@@ -474,20 +474,6 @@ Description: Minimalistic volume hud on the notch.
 Author: Jeffrey Chan <tutorialeselmago@gmail.com>
 Name: Pikabu Lite
 
-Package: dev.carloztech.ios.serial
-Version: 1.0.3
-Architecture: iphoneos-arm
-Maintainer: CarlozTech <tutorialeselmago@gmail.com>
-Filename: /Serial.deb
-Size: 1450468
-MD5sum: b6a36b7177f7be4ae9b7040922b2a990 
-SHA1: cbbebc28fa1e2f1f818cc66e3a3969eb9c6d17c1
-SHA256: 39762ee464abc17b01bb1e8edcee583a75ac1a2956a87229cba33c48376ef730
-Section: Utilities
-Description: Find a device on the right version. — Quickly find information such as the manufacture date and model of an Apple device from its serial number. Scan the barcode on the box of your phone to find out more about it.
-Author: Ayden Panhuyzen <tutorialeselmago@gmail.com>
-Name: Serial
-
 Package: org.carloztech.libswift
 Version: 5.0
 Architecture: iphoneos-arm
