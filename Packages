@@ -494,9 +494,9 @@ Architecture: iphoneos-arm
 Maintainer: CarlozTech <tutorialeselmago@gmail.com>
 Filename: /Spotilife.deb
 Size: 92088
-MD5sum: EF636183922851DD033C29554E23A6B0
-SHA1: 0D5AFC8A02721F86FC4454DA884E6FC866195685
-SHA256: 8B2CE41084478FCE53F2DF0AC0F33AAA3CE1D16ADD42237E78D9C43B869FDF09
+MD5sum: ef636183922851dd033c29554e23a6b0
+SHA1: 0d5afc8a02721f86fc4454da884e6fc866195685
+SHA256: 8b2ce41084478fce53f2df0ac0f33aaa3ce1d16add42237e78d9c43b869fdf09
 Section: Tweaks
 Description: Spotify Unlimited Skips, Remove ADs, Extreme Quality Stream Unlocked... Requires Spotify App (AppStore)
 Author: julioverne <tutorialeselmago@gmail.com>
