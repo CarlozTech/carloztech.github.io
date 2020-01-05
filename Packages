@@ -487,3 +487,17 @@ Section: Development
 Description: Swift runtime for iOS
 Author: Kabir Oberai <tutorialeselmago@gmail.com>
 Name: libswift
+
+Package: org.carloztech.spotilife
+Version: 1.0a
+Architecture: iphoneos-arm
+Maintainer: CarlozTech <tutorialeselmago@gmail.com>
+Filename: /Spotilife.deb
+Size: 92088
+MD5sum: EF636183922851DD033C29554E23A6B0
+SHA1: 0D5AFC8A02721F86FC4454DA884E6FC866195685
+SHA256: 8B2CE41084478FCE53F2DF0AC0F33AAA3CE1D16ADD42237E78D9C43B869FDF09
+Section: Tweaks
+Description: Spotify Unlimited Skips, Remove ADs, Extreme Quality Stream Unlocked... Requires Spotify App (AppStore)
+Author: julioverne <tutorialeselmago@gmail.com>
+Name: Spotilife
