@@ -502,16 +502,16 @@ Description: A beautiful first sight.
 Author: ubik <tutorialeselmago@gmail.com>
 Name: Kalm
 
-Package: com.carloztech.teveplay
-Version: 1.2.3
+Package: com.carloztech.xenhtml
+Version: 1.1.5
 Architecture: iphoneos-arm
 Maintainer: CarlozTech <tutorialeselmago@gmail.com>
-Filename: /Teveplay.deb
-Size: 17973538
-MD5sum: 5d243a7abdf084e10f1842bfa6d71ac7
-SHA1: 702cf91e59372aae562687f0ba14dd43c2150dc9
-SHA256: b56841cf917ad89f817f121e2d7240e9df78c999b6aa261f340e101abad22ac4
-Section: Applications
-Description: ¿Buscas Televisión, series y películas de las que todo el mundo habla? Encontraras muchas en esta aplicación.
+Filename: /Xenhtml.deb
+Size: 2910410
+MD5sum: 761acd089d11597472f3789a6c559a07
+SHA1: 1d9867370cdbd2a247bf8bbe1ec8779c11947d90
+SHA256: aced6b366043ab83ba38b93bca54a09c59a2d496d7fcfaa0a2ace7efe32ef842
+Section: Sistema
+Description: Unified HTML widgets; lockscreen and homescreen
 Author: Xavitec <tutorialeselmago@gmail.com>
-Name: TevePlay
+Name: Xen HTML
