@@ -487,3 +487,17 @@ Section: Development
 Description: Swift runtime for iOS
 Author: Kabir Oberai <tutorialeselmago@gmail.com>
 Name: libswift
+
+Package: com.carloztech.kalm
+Version: 1.3.4
+Architecture: iphoneos-arm
+Maintainer: CarlozTech <tutorialeselmago@gmail.com>
+Filename: /Kalm.deb
+Size: 312916
+MD5sum: b4159da33841020006c63d3ecf8ac120
+SHA1: 23d2d646a5a2226d17fec6b64c26614b69702e54
+SHA256: c64fdc69809cd5507681f498c9c59d3665980c813b849e43665f8344cc4d5e42
+Section: Tweaks
+Description: A beautiful first sight.
+Author: ubik <tutorialeselmago@gmail.com>
+Name: Kalm
