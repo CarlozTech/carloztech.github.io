@@ -507,11 +507,11 @@ Version: 1.1.5
 Architecture: iphoneos-arm
 Maintainer: CarlozTech <tutorialeselmago@gmail.com>
 Filename: /Xenhtml.deb
-Size: 2910410
-MD5sum: 761acd089d11597472f3789a6c559a07
-SHA1: 1d9867370cdbd2a247bf8bbe1ec8779c11947d90
-SHA256: aced6b366043ab83ba38b93bca54a09c59a2d496d7fcfaa0a2ace7efe32ef842
+Size: 2910364
+MD5sum: 290c266ad0cc5be715ca027029f7e3dc
+SHA1: 70d14eb7f966dd45a805bf575e3857c3f577fe33
+SHA256: 2b493e67ed0ec59a1d13e11b956d4244ae041c51b2d90c2f3326abc835c31af7
 Section: Sistema
 Description: Unified HTML widgets; lockscreen and homescreen
-Author: Xavitec <tutorialeselmago@gmail.com>
+Author: Matt Clarke <tutorialeselmago@gmail.com>
 Name: Xen HTML
