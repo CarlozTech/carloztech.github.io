@@ -501,3 +501,17 @@ Section: Tweaks
 Description: A beautiful first sight.
 Author: ubik <tutorialeselmago@gmail.com>
 Name: Kalm
+
+Package: com.carloztech.teveplay
+Version: 1.2.3
+Architecture: iphoneos-arm
+Maintainer: CarlozTech <tutorialeselmago@gmail.com>
+Filename: /Teveplay.deb
+Size: 17973538
+MD5sum: 5d243a7abdf084e10f1842bfa6d71ac7
+SHA1: 702cf91e59372aae562687f0ba14dd43c2150dc9
+SHA256: b56841cf917ad89f817f121e2d7240e9df78c999b6aa261f340e101abad22ac4
+Section: Applications
+Description: ¿Buscas Televisión, series y películas de las que todo el mundo habla? Encontraras muchas en esta aplicación.
+Author: Xavitec <tutorialeselmago@gmail.com>
+Name: TevePlay
