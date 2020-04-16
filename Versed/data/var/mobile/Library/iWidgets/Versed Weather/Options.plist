@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+   <array>
+      <dict>
+         <key>default</key>
+         <string>English</string>
+         <key>label</key>
+         <string>Language</string>
+         <key>name</key>
+         <string>lang</string>
+         <key>options</key>
+         <dict>
+            <key>Chinese</key>
+            <string>chn</string>
+            <key>English</key>
+            <string>en</string>
+            <key>France</key>
+            <string>fr</string>
+            <key>German</key>
+            <string>de</string>
+            <key>Spanish</key>
+            <string>es</string>
+         </dict>
+         <key>type</key>
+         <string>select</string>
+      </dict>
+
+	<dict>
+		<key>default</key>
+		<true/>
+		<key>label</key>
+		<string>°C</string>
+		<key>name</key>
+		<string>celsius</string>
+		<key>type</key>
+		<string>switch</string>
+	</dict>
+
+      <dict>
+         <key>default</key>
+         <string>light</string>
+
+         <key>label</key>
+         <string>Windowcolor</string>
+
+         <key>name</key>
+         <string>wcolor</string>
+
+         <key>options</key>
+         <dict>
+            <key>light</key>
+            <string>light</string>
+            <key>dark</key>
+            <string>dark</string>
+            <key>trueblack</key>
+            <string>trueblack</string>
+         </dict>
+         <key>type</key>
+         <string>select</string>
+      </dict>
+
+      <dict>
+         <key>default</key>
+         <string>145px</string>
+         <key>label</key>
+         <string>Backgroundheight</string>
+         <key>name</key>
+         <string>bgheight</string>
+         <key>type</key>
+         <string>edit</string>
+      </dict>
+
+      <dict>
+         <key>default</key>
+         <string>long</string>
+         <key>label</key>
+         <string>Weekday (narrow, short, long)</string>
+         <key>name</key>
+         <string>weekDay</string>
+         <key>type</key>
+         <string>edit</string>
+      </dict>
+
+      <dict>
+         <key>default</key>
+         <string>long</string>
+         <key>label</key>
+         <string>Month (numeric, 2-digit, short, long)</string>
+         <key>name</key>
+         <string>monthApp</string>
+         <key>type</key>
+         <string>edit</string>
+      </dict>
+
+      <dict>
+         <key>default</key>
+         <string>numeric</string>
+         <key>label</key>
+         <string>Day (numeric, 2-digit)</string>
+         <key>name</key>
+         <string>dayApp</string>
+         <key>type</key>
+         <string>edit</string>
+      </dict>
+
+	<dict>
+		<key>default</key>
+		<false/>
+		<key>label</key>
+		<string>12 hours</string>
+		<key>name</key>
+		<string>twelvehr</string>
+		<key>type</key>
+		<string>switch</string>
+	</dict>
+
+	<dict>
+		<key>default</key>
+		<false/>
+		<key>label</key>
+		<string>Hide background</string>
+		<key>name</key>
+		<string>hidebg</string>
+		<key>type</key>
+		<string>switch</string>
+	</dict>
+
+	<dict>
+		<key>default</key>
+		<false/>
+		<key>label</key>
+		<string>Hide blur</string>
+		<key>name</key>
+		<string>hideblur</string>
+		<key>type</key>
+		<string>switch</string>
+	</dict>
+
+   </array>
+</plist>

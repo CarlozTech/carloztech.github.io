@@ -515,3 +515,17 @@ Section: Sistema
 Description: Unified HTML widgets; lockscreen and homescreen
 Author: Matt Clarke <tutorialeselmago@gmail.com>
 Name: Xen HTML
+
+Package: com.carloztech.versedbeta1
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: CarlozTech <tutorialeselmago@gmail.com>
+Filename: /Versed.deb
+Size: 9503630
+MD5sum: f57832adcae3b2f89e160eb8aadcf23e
+SHA1: 73e922418d4ef809d087b9951a12ff994a001f2f
+SHA256: 129ffb8b4f14eb886283e1b2cf5716770e00fc467e3ad71df05ee2c5af5fce6c
+Section: Temas
+Description: Widgets de música y tiempo estilo iOS 14
+Author: Ing. Jeffrey Umanzor <tuorialeselmago@gmail.com>
+Name: Versed Beta 1

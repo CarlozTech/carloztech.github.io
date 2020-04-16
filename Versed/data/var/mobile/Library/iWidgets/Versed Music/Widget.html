@@ -1,0 +1,251 @@
+<!--
+
+-->
+<!DOCTYPE html>
+	<html>
+	<head>
+		<script type="text/javascript" src="js/clock.js"></script>
+		<script type="text/javascript" charset="utf-8" src="Config.js"></script>
+		<meta content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" name="viewport">
+		<meta charset="utf-8">
+		<link rel="stylesheet" href="Style.css" type="text/css" media="screen"/>
+		<link href="fonts/fontawesome/css/all.css" rel="stylesheet">
+
+
+
+
+</head>
+<body>
+	<div class="container">
+		<div id="bg">
+			<div id="image">
+				<img src="images/noalbumart.png" id="artwork" class="cover" crossOrigin="anonymous" id="artworkImage"></div>
+			<div id="title"></div>
+			<div id="artist"></div>
+			<i id="playPause" class="fas fa-play" onclick="playPause()"></i>
+			<i id="next" class="fas fa-step-forward" onclick="next()"></i>
+			<i id="prev" class="fas fa-step-backward" onclick="prev()"></i>
+		</div>
+		</div>
+	</div>
+
+	<script src="js/jquery-3.3.1.min.js"></script>
+	<script src="js/tinycolor-min.js"></script>
+	<script src="js/Vibrant.min.js"></script>
+	<script src="js/rgbaster.min.js"></script>
+	<script src="js/color-thief.js"></script>
+	<script src="js/colorThief-boom.js"></script>
+
+
+	<script type="text/javascript">
+
+	var doc = document,
+		titleDiv = doc.getElementById('title'),
+		artistDiv = doc.getElementById('artist'),
+		nextDiv = doc.getElementById('next'),
+		prevDiv = doc.getElementById('prev'),
+		playDiv = doc.getElementById('playDiv');
+
+
+if (style == "centered") {
+
+	titleDiv.style.textAlign = 'center';
+	artistDiv.style.textAlign = 'center';
+	titleDiv.style.top = '18px';
+	artistDiv.style.top = '36px';
+	titleDiv.style.width = '66%';
+	artistDiv.style.width = '66%';
+	document.querySelector("#playPause").style.top = '60px';
+  document.querySelector("#playPause").style.left = '57%';
+	document.querySelector(".fa-step-forward").style.top = '60px';
+	document.querySelector(".fa-step-backward").style.top = '60px';
+	document.querySelector(".fa-step-backward").style.left = '95px';
+
+} else if (style == "hide") {
+
+	document.querySelector("#playPause").style.display = 'none';
+	document.querySelector(".fa-step-forward").style.display = 'none';
+	document.querySelector(".fa-step-backward").style.display = 'none';
+	titleDiv.style.width = '66%';
+	artistDiv.style.width = '66%';
+
+
+} else if (style == "hidecenter") {
+
+	document.querySelector("#playPause").style.display = 'none';
+	document.querySelector(".fa-step-forward").style.display = 'none';
+	document.querySelector(".fa-step-backward").style.display = 'none';
+	titleDiv.style.textAlign = 'center';
+	artistDiv.style.textAlign = 'center';
+	titleDiv.style.width = '66%';
+	artistDiv.style.width = '66%';
+
+
+}
+
+
+	function playPause() {
+		var play = document.querySelector("#playPause");
+			if (play.classList.contains("fa-pause")) {
+				play.classList.remove("fa-pause");
+		    play.classList.add("fa-play");
+				document.querySelector('#artwork').style = "box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)";
+				document.querySelector('#artwork').style = "-webkit-transform: scale(0.9, 0.9)";
+			} else {
+				play.classList.remove("fa-play");
+				play.classList.add("fa-pause");
+				document.querySelector('#artwork').style = "box-shadow: 0px 0px 0px rgba(0,0,0,0.7)";
+				document.querySelector('#artwork').style = "-webkit-transform: scale(1, 1)";
+
+			}
+			window.location = 'xeninfo:playpause';
+			play.style.textShadow = "0px 0px 10px rgba(255,255,255,0.5)";
+			setTimeout(function() {
+					play.style.textShadow = "0px 0px 0px rgba(255,255,255,0.5)";
+			}, 150);
+	}
+	function togglePlay() {
+	    var play = document.querySelector("#playPause");
+	    play.classList.remove("fa-pause");
+	    play.classList.add("fa-play");
+			document.querySelector('#artwork').style = "-webkit-transform: scale(0.9, 0.9)";
+	}
+
+	function togglePause() {
+	    var pause = document.querySelector("#playPause");
+	    pause.classList.remove("fa-play");
+	    pause.classList.add("fa-pause");
+			document.querySelector('#artwork').style = "-webkit-transform: scale(1, 1)";
+	}
+
+	function next() {
+			window.location = 'xeninfo:nexttrack';
+			document.querySelector("#next").style.textShadow = "0px 0px 10px rgba(255,255,255,0.5)";
+			setTimeout(function() {
+					document.querySelector("#next").style.textShadow = "0px 0px 0px rgba(255,255,255,0.5)";
+			}, 150);
+	}
+	function prev() {
+			window.location = 'xeninfo:prevtrack';
+			document.querySelector("#prev").style.textShadow = "0px 0px 10px rgba(255,255,255,0.5)";
+			setTimeout(function() {
+					document.querySelector("#prev").style.textShadow = "0px 0px 0px rgba(255,255,255,0.5)";
+			}, 150);
+	}
+	function checkOverflow(el) {
+			var curOverflow = el.style.overflow;
+			if (!curOverflow || curOverflow === "visible") el.style.overflow = "hidden";
+			var isOverflowing = el.clientWidth < el.scrollWidth || el.clientHeight < el.scrollHeight;
+			el.style.overflow = curOverflow;
+			return isOverflowing;
+	}
+
+	var isNull = false
+
+	function mainUpdate(type) {
+	    var albumart = document.querySelector('#artwork');
+	    if (type == "music") {
+
+				if (artist == "(null)" || artist == null) {
+					isNull = false
+					document.querySelector('#bg').style.display = noMusic;
+				} else {
+					isNull = true
+					document.querySelector('#bg').style.display = 'block';
+				}
+
+				isplaying ? togglePause() : togglePlay();
+
+	        art = new Image();
+	        art.onload = function () {
+	            albumart.src = isNull ? "file:///var/mobile/Documents/Artwork.jpg?" + (new Date()).getTime() : "images/noalbumart.png";
+	        };
+					art.src = isNull ? "file:///var/mobile/Documents/Artwork.jpg?" + (new Date()).getTime() : "images/noalbumart.png";
+
+	        //setTimeout(function () {
+
+								var colorThief = new ColorThief();
+								var colorsPalette = colorThief.getPalette(albumart, 10);
+								var palette = colorThief.markBoomColors(colorsPalette);
+
+								var Color1 = tinycolor({r:palette[0][0], g:palette[0][1], b:palette[0][2]}).setAlpha(.6).toString();
+								var Color2 = tinycolor({r:palette[1][0], g:palette[1][1], b:palette[1][2]}).toString();
+								var Color3 = tinycolor({r:palette[2][0], g:palette[2][1], b:palette[2][2]}).toString();
+
+								if (tinycolor(Color1).isLight()) {
+
+									Color1 = tinycolor(Color1).lighten(15)
+									if (tinycolor(Color2).isLight()) {
+										Color2 = tinycolor(Color2).darken(20)
+									}
+									if (tinycolor(Color3).isLight()) {
+										Color3 = tinycolor(Color3).darken(20)
+									}
+								} else {
+
+									Color1 = tinycolor(Color1).darken(15)
+									if (tinycolor(Color2).isDark()) {
+										Color2 = tinycolor(Color2).lighten(20)
+									}
+									if (tinycolor(Color3).isDark()) {
+										Color3 = tinycolor(Color3).lighten(20)
+									}
+								}
+
+								if (wdgtStyle == "dark") {
+									document.querySelector('#bg').style.backgroundColor = "rgba(10,10,10,0.6)";
+									titleDiv.style.color = "rgba(250,250,250,1)";
+									artistDiv.style.color = "rgba(250,250,250,1)";
+									document.querySelector(".fa-step-backward").style.color = "rgba(250,250,250,1)";
+									document.querySelector("#playPause").style.color = "rgba(250,250,250,1)";
+									document.querySelector(".fa-step-forward").style.color = "rgba(250,250,250,1)";
+								} else if (wdgtStyle == "light") {
+									document.querySelector('#bg').style.backgroundColor = "rgba(245,245,245,0.6)";
+									titleDiv.style.color = "rgba(0,0,0,1)";
+									artistDiv.style.color = "rgba(0,0,0,1)";
+									document.querySelector(".fa-step-backward").style.color = "rgba(0,0,0,1)";
+									document.querySelector("#playPause").style.color = "rgba(0,0,0,1)";
+									document.querySelector(".fa-step-forward").style.color = "rgba(0,0,0,1)";
+								} else {
+									document.querySelector('#bg').style.backgroundColor = isNull ? Color1 : "rgba(0,0,0,0.6)";
+									titleDiv.style.color = isNull ? Color2 : "white";
+									artistDiv.style.color = isNull ? Color2 : "white";
+									document.querySelector(".fa-step-backward").style.color = isNull ? Color3 : "white";
+									document.querySelector("#playPause").style.color = isNull ? Color3 : "white";
+									document.querySelector(".fa-step-forward").style.color = isNull ? Color3 : "white";
+								}
+
+
+	       // }, 100);
+
+
+	        document.querySelector('#title').innerHTML = isNull ? title : "";
+
+					if (showAlbum == true) {
+						document.querySelector('#artist').innerHTML = isNull ? (artist + " – " + album) : "";
+					} else {
+						document.querySelector('#artist').innerHTML = isNull ? (artist) : "";
+					}
+
+					if (autoScroll == true) {
+						if (checkOverflow(document.querySelector('#title')) == true) {
+								document.querySelector('#title').classList.add("marquee");
+						} else {
+								document.querySelector('#title').classList.remove("marquee");
+						}
+
+						if (checkOverflow(document.querySelector('#artist')) == true) {
+								document.querySelector('#artist').classList.add("marquee");
+						} else {
+								document.querySelector('#artist').classList.remove("marquee");
+						}
+					}
+
+	    }
+	}
+
+
+
+	</script>
+</body>
+</html>

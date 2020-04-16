@@ -1,0 +1,152 @@
+
+body{
+  color: white;
+  font-size: 28px;
+  margin:0;
+  padding:0;
+  font-weight: normal;
+  text-shadow: 0px 0px rgba(0,0,0,0);
+}
+.container{
+  position: absolute;
+  width: 100%;
+  bottom: 15px;
+
+}
+.container div{
+  position: absolute;
+}
+#bg{
+  display: block;
+  vertical-align: middle;
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+  width: 45%;
+  height: 155px;
+  background-color: rgba(0,0,0,0.4);
+  -webkit-backdrop-filter:blur(10px);
+  border-radius: 40px;
+}
+#artwork{
+  display: block;
+  position: absolute;
+  top: 5px;
+  left: 55px;
+  width: 80px;
+  height: 80px;
+  -webkit-transition: 1s;
+  border-radius: 10px
+}
+#title{
+  position: absolute;
+  text-align: left;
+  top: 90px;
+  left: 20px;
+  width: 140px;
+  height: 20px;
+  font-size: 20px;
+  white-space: nowrap;
+  overflow: auto;
+  font-family: GBold;
+
+}
+#artist{
+  position: absolute;
+  text-align: left;
+  top: 130px;
+  left: 20px;
+  width: 140px;
+  height: 20px;
+  font-size: 17px;
+  white-space: nowrap;
+  overflow: auto;
+  font-family: GMed;
+
+
+}
+#playPause{
+  position: absolute;
+  text-align: center;
+  top: 70%;
+  right: 70px;
+  width: 30px;
+  height: 30px;
+  font-size: 22px
+}
+#next{
+  position: absolute;
+  text-align: center;
+  top: 70%;
+  right: 33px;
+  width: 30px;
+  height: 30px;
+  font-size: 22px
+}
+#prev{
+  position: absolute;
+  text-align: center;
+  top: 70%;
+  right: 112px;
+  width: 30px;
+  height: 30px;
+  font-size: 22px
+}
+
+.marquee {
+    margin: 0;
+    auto;
+    -webkit-animation: marquee 11s linear infinite;
+}
+
+@-webkit-keyframes marquee {
+    0% {
+        text-indent: 150px;
+    }
+    40% {
+        text-indent: 0px;
+    }
+    60% {
+        text-indent: 0px;
+    }
+    100% {
+        text-indent: -230px;
+    }
+}
+
+@font-face{
+      font-family:GrBold;
+      src:url(fonts/GrBold.otf);
+}@font-face{
+      font-family:GrMed;
+      src:url(fonts/GrMed.otf);
+}@font-face{
+      font-family:GBold;
+      src:url(fonts/Painting_With_Chocolate.ttf);
+}@font-face{
+      font-family:GMed;
+      src:url(fonts/Painting_With_Chocolate.ttf);
+}@font-face{
+      font-family:GReg;
+      src:url(fonts/GReg.otf);
+}
+@-webkit-keyframes spin {
+  0% {
+    -webkit-transform: rotate(0deg);
+            transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(360deg);
+            transform: rotate(360deg);
+  }
+}
+@keyframes spin {
+  0% {
+    -webkit-transform: rotate(0deg);
+            transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(360deg);
+            transform: rotate(360deg);
+  }
+}

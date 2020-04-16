@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>wdgtStyle</string>
+		<key>label</key>
+		<string>Widget Style</string>
+		<key>type</key>
+		<string>select</string>
+		<key>default</key>
+		<string>Adaptive</string>
+		<key>options</key>
+		<dict>
+			<key>Adaptive</key>
+			<string>adaptive</string>
+			<key>Dark</key>
+			<string>dark</string>
+			<key>Light</key>
+			<string>light</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>style</string>
+		<key>type</key>
+		<string>select</string>
+		<key>label</key>
+		<string>Controls Style</string>
+		<key>default</key>
+		<string>sided</string>
+		<key>options</key>
+		<dict>
+			<key>Sided</key>
+			<string>sided</string>
+			<key>Centered</key>
+			<string>centered</string>
+			<key>Hide Controls</key>
+			<string>hide</string>
+			<key>Hide Controls &amp; Center Text</key>
+			<string>hidecenter</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>noMusic</string>
+		<key>label</key>
+		<string>When no music is playing</string>
+		<key>type</key>
+		<string>select</string>
+		<key>default</key>
+		<string>Show Widget</string>
+		<key>options</key>
+		<dict>
+			<key>Show Widget</key>
+			<string>block</string>
+			<key>Hide Widget</key>
+			<string>none</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>default</key>
+		<false/>
+		<key>label</key>
+		<string>Show Album Name</string>
+		<key>name</key>
+		<string>showAlbum</string>
+		<key>type</key>
+		<string>switch</string>
+	</dict>
+	<dict>
+		<key>default</key>
+		<true/>
+		<key>label</key>
+		<string>Auto Scroll Text</string>
+		<key>name</key>
+		<string>autoScroll</string>
+		<key>type</key>
+		<string>switch</string>
+	</dict>
+</array>
+</plist>

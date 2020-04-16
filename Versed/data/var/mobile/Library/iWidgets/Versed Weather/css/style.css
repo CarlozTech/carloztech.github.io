@@ -1,0 +1,92 @@
+/* Copyright © Ing. Jeff Umanzor (@jeff_umanzor) 2020 */
+div {
+margin:auto;
+}
+
+body {
+color: #DEB875;
+font-family: Montserrat-Regular;
+font-weight:bold;
+margin-left:50%;
+//margin-right:7%;
+text-align:right;
+
+}
+
+#bg {
+border-radius: 40px;
+padding: 5px;
+width: 85%;
+height: 110px;
+    background-color:rgba(0,0,0,0.3);
+
+}
+
+.blur {
+-webkit-backdrop-filter: blur(0px);
+    box-shadow:0 3px 10px rgba(0,0,0,0.25)
+}
+
+#clock {
+font-size:0px;
+font-family: Montserrat-Bold;
+text-align:left;
+
+}
+
+#bg {
+border-radius: 40px;
+padding: 5px;
+width: 85%;
+height: 100px;
+    background-color:rgba(0,0,0,0.3);
+
+}
+
+
+#date {
+font-size:18px;
+text-transform:uppercase;
+
+\\text-align:right;
+margin-left 80%
+
+
+}
+
+
+#bottom {
+text-align:center;
+position:relative;
+}
+
+ #weathericon {
+height:80px;
+background-image: url('../img/Code 28.png');
+background-size:80px;
+background-repeat:no-repeat;
+text-align: right;
+background-position:center;
+margin-top:-120px;
+margin-left: 5px;
+
+}
+
+#temp {
+font-size:30px;
+margin-top:45px;
+margin-left:0px;
+
+
+}
+
+ @font-face{
+     font-family: Montserrat-Regular;
+     src:url(../font/Shadow-Brush.otf);
+}
+ @font-face{
+     font-family: Montserrat-Bold;
+     src:url(../font/Shadow-Brush.otf);
+
+
+
